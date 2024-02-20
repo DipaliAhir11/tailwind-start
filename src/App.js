@@ -7,7 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Done <code>src/App.js</code> and save to reload.
+          Save <code>src/App.js</code> and save to reload.
+        </p>
+        <p>
+        Just press the shortcut key (Alt+Shift+L) to add Lorem Ipsum text. Keep pressing to add more. Alternatively, you can also specify the number of paragraphs, by writing a number, and pressing the shortcut key.
         </p>
         <a
           className="App-link"
